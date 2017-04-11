@@ -6,7 +6,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 import javax.swing.JButton;
-
+import java.util.Scanner;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
@@ -97,3 +97,4 @@ public class GUI extends JFrame {
 		contentPane.add(panel);
 	}
 }
+
